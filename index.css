@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(200, 200, 200, 0.8);
+    font-family:calibri;
+
+
+}
+
+.wrapper {
+  background-color: #00CCFF;
+  border: 0.5rem solid #9933FF;
+  border-radius: 1rem;
+  margin: auto;
+  width: 40rem;
+}
+
+img {
+  margin: 1rem;
+  max-width: calc(100% - 2rem);
+  opacity: 0.7;
+}
+
+h1 {
+  text-align:center;
+}
